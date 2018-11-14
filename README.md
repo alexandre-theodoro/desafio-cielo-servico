@@ -5,6 +5,7 @@ Serviço que retorna do legado informações de Extrato de Lançamentos em conta
 ### Tecnologia utilizada
 
 Spring Boot
+
 Eclipse IDE
 
 ### Para compilar:
